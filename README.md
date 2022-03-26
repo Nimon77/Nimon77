@@ -10,4 +10,4 @@ I'm a student at [![42Paris](https://img.shields.io/badge/Paris-FFFFFF?style=pla
 
 ### Piscine stats
 
-[![nsimon's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1760y9m000609l6a99op4na?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+[![nsimon's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1760y9m000609l6a99op4na?cursusId=9)](https://github.com/JaeSeoKim/badge42)
