@@ -8,8 +8,12 @@
 ### 42 cursus
 
 <div align="center">
-  <img width="48%" src="https://badge42.vercel.app/api/v2/stats/cl1760y9m000609l6a99op4na?cursusId=21&coalitionId=46" />
-  <img width="48%" src="https://badge42.vercel.app/api/v2/stats/cl1760y9m000609l6a99op4na?cursusId=9&coalitionId=11" />
+  <a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer">
+    <img width="48%" src="https://badge42.vercel.app/api/v2/stats/cl1760y9m000609l6a99op4na?cursusId=21&coalitionId=46" />
+  </a>
+  <a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer">
+    <img width="48%" src="https://badge42.vercel.app/api/v2/stats/cl1760y9m000609l6a99op4na?cursusId=9&coalitionId=11" />
+  </a>
 </div>
 
 [![@nimon77's Holopin board](https://holopin.me/nimon77)](https://holopin.io/@nimon77)
