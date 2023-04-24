@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <div align="center">
-  <p>I'm a student at <img src="https://img.shields.io/badge/Paris-FFFFFF?style=plastic&logo=42&logoColor=000000" \>. Currently in the staff team as SysAdmin</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimon77&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <p>I'm a student at <a href="https://profile.intra.42.fr/users/nsimon"><img src="https://img.shields.io/badge/Paris-FFFFFF?style=plastic&logo=42&logoColor=000000" \></a>. Currently in the staff team as SysAdmin</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimon77&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
 </div>
 
 ### 42 cursus
