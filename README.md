@@ -10,10 +10,10 @@
 ### 42 cursus
 
 <div align="center">
-  <a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Nimon77/badge42" target="_blank" rel="noopener noreferrer">
     <img width="48%" src="https://badge.nimon.fr/api/v2/stats/cltxm25zz00657dqg1x1p6bnn?cursusId=21&coalitionId=46" />
   </a>
-  <a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Nimon77/badge42" target="_blank" rel="noopener noreferrer">
     <img width="48%" src="https://badge.nimon.fr/api/v2/stats/cltxm25zz00657dqg1x1p6bnn?cursusId=9&coalitionId=11" />
   </a>
 </div>
